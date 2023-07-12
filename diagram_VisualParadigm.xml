@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="antontihoplav" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" Description="&lt;html&gt;&#10;  &lt;head&gt;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#10;    &#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="16.1.1" Name="untitled" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowDiagramFrame="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BlockDefinitionDiagramShowDiagramFrame="true" BpPoolLaneDefaultOrientation="\u0000" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowReceptionOption="\u0001" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" InteractionDiagramShowDiagramFrame="true" InternalBlockDiagramShowDiagramFrame="true" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PackageDiagramShowDiagramFrame="true" PaintConnectorThroughLabel="false" ParametricDiagramShowDiagramFrame="true" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" RequirementDiagramShowDiagramFrame="true" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowBSElementCode="true" ShowClassEmptyCompartments="false" ShowColumnDefaultValue="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" SnapConnectorsAfterZoom="false" StateDiagramShowDiagramFrame="true" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="true" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseCaseDiagramShowDiagramFrame="true" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true" QuickAddGlossaryTermParentModelId="default"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions AlterColumnUserType="true" DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="true" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="OrUEnJGD.AAAAQyd" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="urUEnJGD.AAAAQye" LastNumericValue="0" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="urUEnJGD.AAAAQyf" LastNumericValue="0" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="urUEnJGD.AAAAQyg" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="urUEnJGD.AAAAQyh" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="urUEnJGD.AAAAQyi" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="JTUEnJGD.AAAAQko" Name="boolean" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.988" PmLastModified="2023-07-09T08:30:00.226" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="JTUEnJGD.AAAAQkp" Name="byte" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.988" PmLastModified="2023-07-09T08:30:00.226" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkq" Name="char" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkr" Name="double" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQks" Name="float" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkt" Name="int" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQku" Name="long" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkv" Name="short" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkw" Name="void" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pTUEnJGD.AAAAQkx" Name="string" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:29:49.989" PmLastModified="2023-07-09T08:30:00.218" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="O6jEnJGD.AAAAQyv" Leaf="false" Name="Field" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:27.996" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="MmjEnJGD.AAAAQ08" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_notebook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="z6jEnJGD.AAAAQyz" InitialValue="value" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.019" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="X6jEnJGD.AAAAQy0" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="_value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.026" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<InitialValue>
+						<Attribute Idref="z6jEnJGD.AAAAQyz" Name="value"/>
+					</InitialValue>
+				</Attribute>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="P6jEnJGD.AAAAQy2" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.028" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="QGjEnJGD.AAAAQy4" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="sGjEnJGD.AAAAQy6" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.045" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="pGjEnJGD.AAAAQy7" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.069" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="pGjEnJGD.AAAAQy8" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="pGjEnJGD.AAAAQy9" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.069" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="MmjEnJGD.AAAAQ09" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.108" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="smjEnJGD.AAAAQ0." JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<FromSimpleRelationships>
+				<Generalization Idref="umjEnJGD.AAAAQ2F" Name=""/>
+				<Generalization Idref="LmjEnJGD.AAAAQ2G" Name=""/>
+				<Generalization Idref="rmjEnJGD.AAAAQ2H" Name=""/>
+				<Generalization Idref="bmjEnJGD.AAAAQ2I" Name=""/>
+				<Generalization Idref="vmjEnJGD.AAAAQ2J" Name=""/>
+				<Generalization Idref="fmjEnJGD.AAAAQ2K" Name=""/>
+			</FromSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="ZGjEnJGD.AAAAQy." Leaf="false" Name="Name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.070" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="ZGjEnJGD.AAAAQy_" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="ZGjEnJGD.AAAAQzA" InitialValue="name" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.070" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ZGjEnJGD.AAAAQzB" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.070" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ZGjEnJGD.AAAAQzC" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="FGjEnJGD.AAAAQzD" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.072" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="FGjEnJGD.AAAAQzE" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.072" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="FGjEnJGD.AAAAQzF" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="FGjEnJGD.AAAAQzG" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.072" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="lGjEnJGD.AAAAQzH" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.073" PmLastModified="2023-07-09T08:32:45.068" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="lGjEnJGD.AAAAQzI" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="umjEnJGD.AAAAQ2F" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="lGjEnJGD.AAAAQzJ" Leaf="false" Name="Phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.073" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="VGjEnJGD.AAAAQzK" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="VGjEnJGD.AAAAQzL" InitialValue="value" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.074" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="VGjEnJGD.AAAAQzM" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.074" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="VGjEnJGD.AAAAQzN" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="VGjEnJGD.AAAAQzO" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.074" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="1GjEnJGD.AAAAQzP" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.075" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="1GjEnJGD.AAAAQzQ" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="1GjEnJGD.AAAAQzR" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.075" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="TGjEnJGD.AAAAQzS" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.082" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="zGjEnJGD.AAAAQzT" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="LmjEnJGD.AAAAQ2G" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="zGjEnJGD.AAAAQzU" Leaf="false" Name="Email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.083" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="zGjEnJGD.AAAAQzV" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="zGjEnJGD.AAAAQzW" InitialValue="value" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.083" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="LGjEnJGD.AAAAQzX" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.084" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="LGjEnJGD.AAAAQzY" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="LGjEnJGD.AAAAQzZ" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.084" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="LGjEnJGD.AAAAQza" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.084" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="LGjEnJGD.AAAAQzb" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="LGjEnJGD.AAAAQzc" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.084" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="rGjEnJGD.AAAAQzd" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.085" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="rGjEnJGD.AAAAQze" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="rmjEnJGD.AAAAQ2H" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="rGjEnJGD.AAAAQzf" Leaf="false" Name="Birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.085" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="rGjEnJGD.AAAAQzg" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="rGjEnJGD.AAAAQzh" InitialValue="birthday" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.085" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="bGjEnJGD.AAAAQzi" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="bGjEnJGD.AAAAQzj" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="bGjEnJGD.AAAAQzk" Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="bGjEnJGD.AAAAQzl" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="bGjEnJGD.AAAAQzm" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="bGjEnJGD.AAAAQzn" Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="bGjEnJGD.AAAAQzo" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="bGjEnJGD.AAAAQzp" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="bmjEnJGD.AAAAQ2I" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="bGjEnJGD.AAAAQzq" Leaf="false" Name="Record" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.086" PmLastModified="2023-07-09T08:32:45.059" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="7GjEnJGD.AAAAQzr" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="7GjEnJGD.AAAAQzs" InitialValue="name" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.087" PmLastModified="2023-07-09T08:32:45.060" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="7GjEnJGD.AAAAQzt" InitialValue="birthday" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.087" PmLastModified="2023-07-09T08:32:45.060" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="7GjEnJGD.AAAAQzu" InitialValue="[]" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="phones" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.087" PmLastModified="2023-07-09T08:32:45.060" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="7GjEnJGD.AAAAQzv" InitialValue="[]" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="emails" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.087" PmLastModified="2023-07-09T08:32:45.060" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="HGjEnJGD.AAAAQzw" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.088" PmLastModified="2023-07-09T08:32:45.060" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="HGjEnJGD.AAAAQzx" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="Name" Direction="inout" Documentation_plain="" Id="HGjEnJGD.AAAAQzy" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.088" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="((Phone|str)|)" Direction="inout" Documentation_plain="" Id="HGjEnJGD.AAAAQzz" Multiplicity="Unspecified" Name="phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.088" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="((Email|str)|)" Direction="inout" Documentation_plain="" Id="HGjEnJGD.AAAAQz0" Multiplicity="Unspecified" Name="email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.088" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="(Birthday|)" Direction="inout" Documentation_plain="" Id="HGjEnJGD.AAAAQz1" Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.088" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="nGjEnJGD.AAAAQz2" Leaf="false" Lower_IsNull="true" Name="add_phone" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.089" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="nGjEnJGD.AAAAQz3" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="(Phone|str)" Direction="inout" Documentation_plain="" Id="nGjEnJGD.AAAAQz4" Multiplicity="Unspecified" Name="phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.089" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="XGjEnJGD.AAAAQz5" Leaf="false" Lower_IsNull="true" Name="add_email" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.090" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="XGjEnJGD.AAAAQz6" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="(Email|str)" Direction="inout" Documentation_plain="" Id="3GjEnJGD.AAAAQz7" Multiplicity="Unspecified" Name="email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.091" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="PGjEnJGD.AAAAQz8" Leaf="false" Lower_IsNull="true" Name="add_birthday" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.092" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="PGjEnJGD.AAAAQz9" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="(Birthday|str)" Direction="inout" Documentation_plain="" Id="PGjEnJGD.AAAAQz." Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.092" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="vGjEnJGD.AAAAQz_" Leaf="false" Lower_IsNull="true" Name="create_phone" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="vGjEnJGD.AAAAQ0A" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="vGjEnJGD.AAAAQ0B" Multiplicity="Unspecified" Name="phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="vGjEnJGD.AAAAQ0C" Leaf="false" Lower_IsNull="true" Name="create_email" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="vGjEnJGD.AAAAQ0D" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="vGjEnJGD.AAAAQ0E" Multiplicity="Unspecified" Name="email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="vGjEnJGD.AAAAQ0F" Leaf="false" Lower_IsNull="true" Name="create_birthday" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="vGjEnJGD.AAAAQ0G" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="vGjEnJGD.AAAAQ0H" Multiplicity="Unspecified" Name="birthday" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.093" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="fGjEnJGD.AAAAQ0I" Leaf="false" Lower_IsNull="true" Name="edit_phone" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.094" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="fGjEnJGD.AAAAQ0J" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="fGjEnJGD.AAAAQ0K" Multiplicity="Unspecified" Name="old_phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.094" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="_GjEnJGD.AAAAQ0L" Multiplicity="Unspecified" Name="new_phone" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.095" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="_GjEnJGD.AAAAQ0M" Leaf="false" Lower_IsNull="true" Name="edit_email" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.095" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="_GjEnJGD.AAAAQ0N" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="_GjEnJGD.AAAAQ0O" Multiplicity="Unspecified" Name="old_email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.095" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="_GjEnJGD.AAAAQ0P" Multiplicity="Unspecified" Name="new_email" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.095" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="_GjEnJGD.AAAAQ0Q" Leaf="false" Lower_IsNull="true" Name="show" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.095" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="AmjEnJGD.AAAAQ0R" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="AmjEnJGD.AAAAQ0S" Leaf="false" Lower_IsNull="true" Name="get_phone" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.096" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="AmjEnJGD.AAAAQ0T" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="AmjEnJGD.AAAAQ0U" Multiplicity="Unspecified" Name="inx" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.096" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="AmjEnJGD.AAAAQ0V" Leaf="false" Lower_IsNull="true" Name="get_name" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.096" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="AmjEnJGD.AAAAQ0W" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="AmjEnJGD.AAAAQ0X" Leaf="false" Lower_IsNull="true" Name="get_email" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.096" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="AmjEnJGD.AAAAQ0Y" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="AmjEnJGD.AAAAQ0Z" Multiplicity="Unspecified" Name="indx" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.096" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="gmjEnJGD.AAAAQ0a" Leaf="false" Lower_IsNull="true" Name="get_birthday" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.097" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="gmjEnJGD.AAAAQ0b" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="gmjEnJGD.AAAAQ0c" Leaf="false" Lower_IsNull="true" Name="days_to_birthday" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.097" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="gmjEnJGD.AAAAQ0d" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="gmjEnJGD.AAAAQ0e" Leaf="false" Lower_IsNull="true" Name="__str__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.097" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="gmjEnJGD.AAAAQ0f" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="gmjEnJGD.AAAAQ0g" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.097" PmLastModified="2023-07-09T08:32:45.061" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="QmjEnJGD.AAAAQ0h" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="QmjEnJGD.AAAAQ0i" Leaf="false" Name="AddressBook" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.098" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="QmjEnJGD.AAAAQ0j" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_addressbook.py"/>
+			</References>
+			<ModelChildren>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="QmjEnJGD.AAAAQ0k" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.098" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="wmjEnJGD.AAAAQ0l" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="(Record|)" Direction="inout" Documentation_plain="" Id="wmjEnJGD.AAAAQ0m" Multiplicity="Unspecified" Name="record" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.099" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="wmjEnJGD.AAAAQ0n" Leaf="false" Lower_IsNull="true" Name="add_record" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.099" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="wmjEnJGD.AAAAQ0o" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="Record" Direction="inout" Documentation_plain="" Id="wmjEnJGD.AAAAQ0p" Multiplicity="Unspecified" Name="record" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.099" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ImjEnJGD.AAAAQ0q" Leaf="false" Lower_IsNull="true" Name="show" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.100" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ImjEnJGD.AAAAQ0r" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ImjEnJGD.AAAAQ0s" Leaf="false" Lower_IsNull="true" Name="get_records" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.100" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<ReturnType>
+						<Class Idref="bGjEnJGD.AAAAQzq" Name="Record"/>
+					</ReturnType>
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ImjEnJGD.AAAAQ0t" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="ImjEnJGD.AAAAQ0u" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.100" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ImjEnJGD.AAAAQ0v" Leaf="false" Lower_IsNull="true" Name="save_address_book" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.100" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="omjEnJGD.AAAAQ0w" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="omjEnJGD.AAAAQ0x" Multiplicity="Unspecified" Name="filename" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.101" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="omjEnJGD.AAAAQ0y" Leaf="false" Lower_IsNull="true" Name="show_record" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.101" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="omjEnJGD.AAAAQ0z" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="omjEnJGD.AAAAQ00" Multiplicity="Unspecified" Name="name" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.101" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="omjEnJGD.AAAAQ01" Leaf="false" Lower_IsNull="true" Name="load_address_book" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.101" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="omjEnJGD.AAAAQ02" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="omjEnJGD.AAAAQ03" Multiplicity="Unspecified" Name="filename" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.101" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="YmjEnJGD.AAAAQ04" Leaf="false" Lower_IsNull="true" Name="__iter__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.102" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="YmjEnJGD.AAAAQ05" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="YmjEnJGD.AAAAQ06" Leaf="false" Lower_IsNull="true" Name="__next__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.102" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="YmjEnJGD.AAAAQ07" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="smjEnJGD.AAAAQ0_" Leaf="false" Name="Hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.109" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="smjEnJGD.AAAAQ1A" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_notebook.py"/>
+			</References>
+			<ModelChildren>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="smjEnJGD.AAAAQ1B" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.109" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="smjEnJGD.AAAAQ1C" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="smjEnJGD.AAAAQ1D" Multiplicity="Unspecified" Name="hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.109" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="smjEnJGD.AAAAQ1E" Leaf="false" Lower_IsNull="true" Name="value" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.109" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="cmjEnJGD.AAAAQ1F" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="cmjEnJGD.AAAAQ1G" Multiplicity="Unspecified" Name="hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.110" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="cmjEnJGD.AAAAQ1H" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.110" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="str" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="cmjEnJGD.AAAAQ1I" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="vmjEnJGD.AAAAQ2J" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="cmjEnJGD.AAAAQ1J" Leaf="false" Name="Note" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.110" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="cmjEnJGD.AAAAQ1K" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_notebook.py"/>
+			</References>
+			<ModelChildren>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="cmjEnJGD.AAAAQ1L" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.110" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="8mjEnJGD.AAAAQ1M" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="8mjEnJGD.AAAAQ1N" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.111" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+			</ModelChildren>
+			<ToSimpleRelationships>
+				<Generalization Idref="fmjEnJGD.AAAAQ2K" Name=""/>
+			</ToSimpleRelationships>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="8mjEnJGD.AAAAQ1O" Leaf="false" Name="RecordNote" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.111" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="8mjEnJGD.AAAAQ1P" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_notebook.py"/>
+			</References>
+			<ModelChildren>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="8mjEnJGD.AAAAQ1Q" InitialValue="hashtag" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.111" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="CmjEnJGD.AAAAQ1R" InitialValue="[]" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="notes" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.112" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="CmjEnJGD.AAAAQ1S" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.112" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="CmjEnJGD.AAAAQ1T" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="CmjEnJGD.AAAAQ1U" Multiplicity="Unspecified" Name="hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.112" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="CmjEnJGD.AAAAQ1V" Multiplicity="Unspecified" Name="note" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.112" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="imjEnJGD.AAAAQ1W" Leaf="false" Lower_IsNull="true" Name="add_note" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.113" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="imjEnJGD.AAAAQ1X" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="imjEnJGD.AAAAQ1Y" Multiplicity="Unspecified" Name="note" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.113" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="imjEnJGD.AAAAQ1Z" Leaf="false" Lower_IsNull="true" Name="edit_note" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.113" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="SmjEnJGD.AAAAQ1a" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="SmjEnJGD.AAAAQ1b" Multiplicity="Unspecified" Name="old_note" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.114" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="SmjEnJGD.AAAAQ1c" Multiplicity="Unspecified" Name="new_note" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.114" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="SmjEnJGD.AAAAQ1d" Leaf="false" Lower_IsNull="true" Name="show" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.114" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="SmjEnJGD.AAAAQ1e" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="SmjEnJGD.AAAAQ1f" Leaf="false" Lower_IsNull="true" Name="get_hashtag" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.114" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="SmjEnJGD.AAAAQ1g" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="SmjEnJGD.AAAAQ1h" Leaf="false" Lower_IsNull="true" Name="get_note_by_index" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.114" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ymjEnJGD.AAAAQ1i" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="ymjEnJGD.AAAAQ1j" Multiplicity="Unspecified" Name="index" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.115" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ymjEnJGD.AAAAQ1k" Leaf="false" Lower_IsNull="true" Name="__str__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.115" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ymjEnJGD.AAAAQ1l" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ymjEnJGD.AAAAQ1m" Leaf="false" Lower_IsNull="true" Name="__repr__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.115" PmLastModified="2023-07-09T08:32:45.066" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="ymjEnJGD.AAAAQ1n" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+		</Class>
+		<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" FinalSpecialization="false" Id="ymjEnJGD.AAAAQ1o" Leaf="false" Name="Notebook" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.115" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<References>
+				<Reference Description="Source" Id="ymjEnJGD.AAAAQ1p" Name="referencedSource" Type="File" Url="/Users/antontihoplav/Downloads/project_pymakers-main/src/pymakers/classes_for_notebook.py"/>
+			</References>
+			<ModelChildren>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="ymjEnJGD.AAAAQ1q" Leaf="false" Lower_IsNull="true" Name="__init__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.115" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="KmjEnJGD.AAAAQ1r" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="KmjEnJGD.AAAAQ1s" Multiplicity="Unspecified" Name="record" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="KmjEnJGD.AAAAQ1t" Leaf="false" Lower_IsNull="true" Name="add_record" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="KmjEnJGD.AAAAQ1u" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="KmjEnJGD.AAAAQ1v" Multiplicity="Unspecified" Name="record" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="KmjEnJGD.AAAAQ1w" Leaf="false" Lower_IsNull="true" Name="show" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="KmjEnJGD.AAAAQ1x" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="KmjEnJGD.AAAAQ1y" Leaf="false" Lower_IsNull="true" Name="get_records" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="KmjEnJGD.AAAAQ1z" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="KmjEnJGD.AAAAQ10" Multiplicity="Unspecified" Name="hashtag" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.116" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="qmjEnJGD.AAAAQ11" Leaf="false" Lower_IsNull="true" Name="save_notes" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.117" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="qmjEnJGD.AAAAQ12" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="qmjEnJGD.AAAAQ13" Multiplicity="Unspecified" Name="filename" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.117" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="qmjEnJGD.AAAAQ14" Leaf="false" Lower_IsNull="true" Name="load_notes" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.117" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="qmjEnJGD.AAAAQ15" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="" Direction="inout" Documentation_plain="" Id="qmjEnJGD.AAAAQ16" Multiplicity="Unspecified" Name="filename" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.117" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="qmjEnJGD.AAAAQ17" Leaf="false" Lower_IsNull="true" Name="search" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.117" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="amjEnJGD.AAAAQ18" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+					<ModelChildren>
+						<Parameter BacklogActivityId="0" DefaultValue="str" Direction="inout" Documentation_plain="" Id="amjEnJGD.AAAAQ19" Multiplicity="Unspecified" Name="value" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.118" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Type="" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</ModelChildren>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="amjEnJGD.AAAAQ1." Leaf="false" Lower_IsNull="true" Name="__iter__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.118" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="amjEnJGD.AAAAQ1_" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="amjEnJGD.AAAAQ2A" Leaf="false" Lower_IsNull="true" Name="__next__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.118" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="amjEnJGD.AAAAQ2B" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+				<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="amjEnJGD.AAAAQ2C" Leaf="false" Lower_IsNull="true" Name="__str__" Ordered="false" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.118" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+					<JavaDetail>
+						<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="amjEnJGD.AAAAQ2D" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+					</JavaDetail>
+				</Operation>
+			</ModelChildren>
+		</Class>
+		<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="3hrEnJGD.AAAAQ3H" Name="relationships" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:45.051" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<ModelChildren>
+				<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="PhrEnJGD.AAAAQ3I" Name="Generalization" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:45.052" PmLastModified="2023-07-09T08:32:45.067" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<ModelChildren>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="umjEnJGD.AAAAQ2F" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.125" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="ZGjEnJGD.AAAAQy." UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="LmjEnJGD.AAAAQ2G" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.148" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="lGjEnJGD.AAAAQzJ" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="rmjEnJGD.AAAAQ2H" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.149" PmLastModified="2023-07-09T08:32:45.065" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="zGjEnJGD.AAAAQzU" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="bmjEnJGD.AAAAQ2I" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.150" PmLastModified="2023-07-09T08:32:45.064" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="rGjEnJGD.AAAAQzf" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="vmjEnJGD.AAAAQ2J" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.157" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="smjEnJGD.AAAAQ0_" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+						<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="O6jEnJGD.AAAAQyv" Id="fmjEnJGD.AAAAQ2K" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:28.158" PmLastModified="2023-07-09T08:32:45.063" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="cmjEnJGD.AAAAQ1J" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified"/>
+					</ModelChildren>
+				</ModelRelationshipContainer>
+			</ModelChildren>
+		</ModelRelationshipContainer>
+	</Models>
+	<Diagrams>
+		<ClassDiagram AlignToGrid="false" AutoFitShapesSize="false" ClassFitSizeWhenShowHideMember="true" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" DiagramImageFileName="Class Diagram2.png" Editable="true" FilterByViewpointLegend="true" FollowDiagramParentElement="true" GeneralizationSetNotation="2" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="630" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="8HTEnJGD.AAAAQ2L" ImageHeight="890" ImageScale="1.0" ImageWidth="586" InitializeDiagramForCreate="true" Maximized="true" ModelElementNameAlignment="4" Name="Class Diagram2" PaintConnectorThroughLabel="1" PmAuthor="antontihoplav" PmCreateDateTime="2023-07-09T08:32:34.191" PmLastModified="2023-07-09T08:32:35.020" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="524287" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowAssociationNavigationArrows="3" ShowAttributeGetterSetter="false" ShowAttributesCodeDetails="2" ShowAttributesPropertyModifiers="2" ShowAttributesType="1" ShowClassEmptyCompartments="2" ShowClassOwner="2" ShowClassReferencedAttributes="true" ShowColorLegend="false" ShowConnectorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="true" ShowEllipsisForUnshownClassMembers="2" ShowInformationItemOption="2" ShowOperationsCodeDetails="2" ShowOperationsParameters="1" ShowOperationsReturnType="1" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowPackageOwner="2" ShowParametersCodeDetails="2" ShowRelationshipConstraintExpression="false" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowTemplateInfoOfGeneralizationAndRealization="false" SuppressImplied1MultiplicityForAttributeAndAssociationEnd="false" TeamworkCreateDateTime="0" TrimmedHeight="18" TrimmedWidth="284" Width="1414" X="0" Y="0" ZoomRatio="1.0" _globalPaletteOption="true">
+			<Shapes>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="148" Id="pHTEnJGD.AAAAQ2N" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="QmjEnJGD.AAAAQ0i" Model="QmjEnJGD.AAAAQ0i" ModelElementNameAlignment="9" Name="AddressBook" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="126" WpMbs="false" X="301" Y="720" ZOrder="2">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="126" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="82" Id="UnTEnJGD.AAAAQ2P" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="rGjEnJGD.AAAAQzf" Model="rGjEnJGD.AAAAQzf" ModelElementNameAlignment="9" Name="Birthday" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="2" Y="593" ZOrder="4">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="82" Id="UnTEnJGD.AAAAQ2R" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="zGjEnJGD.AAAAQzU" Model="zGjEnJGD.AAAAQzU" ModelElementNameAlignment="9" Name="Email" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="102" Y="593" ZOrder="6">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="96" Id="0nTEnJGD.AAAAQ2T" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="O6jEnJGD.AAAAQyv" Model="O6jEnJGD.AAAAQyv" ModelElementNameAlignment="9" Name="Field" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="252" Y="367" ZOrder="8">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="64" Id="0nTEnJGD.AAAAQ2V" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="smjEnJGD.AAAAQ0_" Model="smjEnJGD.AAAAQ0_" ModelElementNameAlignment="9" Name="Hashtag" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="202" Y="602" ZOrder="10">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="82" Id="MnTEnJGD.AAAAQ2X" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="ZGjEnJGD.AAAAQy." Model="ZGjEnJGD.AAAAQy." ModelElementNameAlignment="9" Name="Name" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="302" Y="593" ZOrder="12">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="40" Id="MnTEnJGD.AAAAQ2Z" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="cmjEnJGD.AAAAQ1J" Model="cmjEnJGD.AAAAQ1J" ModelElementNameAlignment="9" Name="Note" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="402" Y="614" ZOrder="14">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="162" Id="MnTEnJGD.AAAAQ2b" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="ymjEnJGD.AAAAQ1o" Model="ymjEnJGD.AAAAQ1o" ModelElementNameAlignment="9" Name="Notebook" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="86" WpMbs="false" X="170" Y="720" ZOrder="16">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="86" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="82" Id="snTEnJGD.AAAAQ2d" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="lGjEnJGD.AAAAQzJ" Model="lGjEnJGD.AAAAQzJ" ModelElementNameAlignment="9" Name="Phone" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="80" WpMbs="false" X="502" Y="593" ZOrder="18">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="80" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="320" Id="snTEnJGD.AAAAQ2f" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="bGjEnJGD.AAAAQzq" Model="bGjEnJGD.AAAAQzq" ModelElementNameAlignment="9" Name="Record" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="113" WpMbs="false" X="2" Y="2" ZOrder="20">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="113" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="166" Id="snTEnJGD.AAAAQ2h" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="8mjEnJGD.AAAAQ1O" Model="8mjEnJGD.AAAAQ1O" ModelElementNameAlignment="9" Name="RecordNote" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="false" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="false" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="123" WpMbs="false" X="2" Y="720" ZOrder="22">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="123" X="-284" Y="-18"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+			</Shapes>
+			<Connectors>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="228" Id="dnTEnJGD.AAAAQ2j" MetaModelElement="bmjEnJGD.AAAAQ2I" Model="bmjEnJGD.AAAAQ2I" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="UnTEnJGD.AAAAQ2P" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="350" X="-8" Y="414" ZOrder="24">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="166" Y="510"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="42.0" Y="513.0"/>
+						<Point X="42.0" Y="592.0"/>
+					</Points>
+				</Generalization>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="228" Id="9nTEnJGD.AAAAQ2l" MetaModelElement="rmjEnJGD.AAAAQ2H" Model="rmjEnJGD.AAAAQ2H" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="UnTEnJGD.AAAAQ2R" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="250" X="92" Y="414" ZOrder="26">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="216" Y="510"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="142.0" Y="513.0"/>
+						<Point X="142.0" Y="592.0"/>
+					</Points>
+				</Generalization>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="237" Id="9nTEnJGD.AAAAQ2n" MetaModelElement="vmjEnJGD.AAAAQ2J" Model="vmjEnJGD.AAAAQ2J" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="0nTEnJGD.AAAAQ2V" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="150" X="192" Y="414" ZOrder="28">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="239" Y="552"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="242.0" Y="513.0"/>
+						<Point X="242.0" Y="601.0"/>
+					</Points>
+				</Generalization>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="228" Id="9nTEnJGD.AAAAQ2p" MetaModelElement="umjEnJGD.AAAAQ2F" Model="umjEnJGD.AAAAQ2F" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="MnTEnJGD.AAAAQ2X" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="150" X="242" Y="414" ZOrder="30">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="339" Y="548"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="342.0" Y="513.0"/>
+						<Point X="342.0" Y="592.0"/>
+					</Points>
+				</Generalization>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="249" Id="9nTEnJGD.AAAAQ2r" MetaModelElement="fmjEnJGD.AAAAQ2K" Model="fmjEnJGD.AAAAQ2K" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="MnTEnJGD.AAAAQ2Z" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="250" X="242" Y="414" ZOrder="32">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="366" Y="510"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="442.0" Y="513.0"/>
+						<Point X="442.0" Y="613.0"/>
+					</Points>
+				</Generalization>
+				<Generalization Background="rgb(255, 255, 255)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="0nTEnJGD.AAAAQ2T" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="228" Id="9nTEnJGD.AAAAQ2t" MetaModelElement="LmjEnJGD.AAAAQ2G" Model="LmjEnJGD.AAAAQ2G" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="snTEnJGD.AAAAQ2d" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="350" X="242" Y="414" ZOrder="34">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="416" Y="510"/>
+					<Points>
+						<Point X="292.0" Y="464.0"/>
+						<Point X="292.0" Y="513.0"/>
+						<Point X="542.0" Y="513.0"/>
+						<Point X="542.0" Y="592.0"/>
+					</Points>
+				</Generalization>
+			</Connectors>
+		</ClassDiagram>
+	</Diagrams>
+</Project>
